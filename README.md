@@ -14,14 +14,16 @@
 
 ## Установка через HACS
 
-1. Откройте HACS в Home Assistant
-2. Перейдите в "Integrations"
-3. Нажмите на три точки справа вверху
-4. Выберите "Custom repositories"
-5. Добавьте URL: `https://github.com/rasperepodvipodvert/sim2m`
-6. Категория: `Integration`
-7. Нажмите "Add"
-8. Найдите "Sim2M" в списке и установите
+**📖 Подробная инструкция:** [HACS_INSTALL.md](HACS_INSTALL.md)
+
+### Кратко:
+
+1. HACS → ⋮ (меню) → Custom repositories
+2. Repository: `https://github.com/rasperepodvipodvert/sim2m`
+3. Category: `Integration`
+4. Add → Download → Restart
+
+**Не можете найти "Custom repositories"?** Смотрите [HACS_INSTALL.md](HACS_INSTALL.md) - там 3 способа установки
 
 ## Установка вручную
 
