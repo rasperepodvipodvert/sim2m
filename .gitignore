@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Data
+traffic_data.json
+cookies.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.DS_Store
