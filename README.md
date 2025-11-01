@@ -18,7 +18,7 @@
 2. Перейдите в "Integrations"
 3. Нажмите на три точки справа вверху
 4. Выберите "Custom repositories"
-5. Добавьте URL: `https://github.com/ifilatov/sim2m`
+5. Добавьте URL: `https://github.com/rasperepodvipodvert/sim2m`
 6. Категория: `Integration`
 7. Нажмите "Add"
 8. Найдите "Sim2M" в списке и установите
