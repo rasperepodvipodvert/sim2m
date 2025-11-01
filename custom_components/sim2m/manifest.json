@@ -1,0 +1,10 @@
+{
+  "domain": "sim2m",
+  "name": "Sim2M",
+  "documentation": "https://github.com/ifilatov/sim2m",
+  "codeowners": ["@ifilatov"],
+  "requirements": ["requests>=2.31.0"],
+  "version": "1.0.0",
+  "iot_class": "cloud_polling",
+  "config_flow": true
+}

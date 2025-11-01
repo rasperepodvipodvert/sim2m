@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Setup Sim2M",
+        "description": "Enter refresh token from browser and account ID",
+        "data": {
+          "refresh_token": "Refresh Token (from browser cookie)",
+          "account_id": "Account ID"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot connect to API. Check token and ID.",
+      "unknown": "Unknown error. Check logs."
+    },
+    "abort": {
+      "already_configured": "This account is already configured"
+    }
+  }
+}

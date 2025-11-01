@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Настройка Sim2M",
+        "description": "Введите refresh token из браузера и ID лицевого счета",
+        "data": {
+          "refresh_token": "Refresh Token (из cookie браузера)",
+          "account_id": "ID Лицевого счета"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Не удалось подключиться к API. Проверьте токен и ID.",
+      "unknown": "Неизвестная ошибка. Проверьте логи."
+    },
+    "abort": {
+      "already_configured": "Этот счет уже добавлен"
+    }
+  }
+}
