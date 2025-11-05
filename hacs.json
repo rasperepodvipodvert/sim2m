@@ -1,5 +1,6 @@
 {
   "name": "Sim2M",
   "render_readme": true,
-  "country": ["RU"]
+  "country": ["RU"],
+  "homeassistant": "2024.1.0"
 }
